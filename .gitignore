@@ -10,6 +10,7 @@ share/
 # Ignore compiled files
 __pycache__/
 *.py[cod]
+.pytest_cache/
 
 # Ignore CSV files if they're not needed in version control
 *.csv
