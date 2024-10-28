@@ -1,0 +1,28 @@
+# Ignore Python virtual environment
+venv/
+Lib/
+Scripts/
+share/
+
+# Ignore database files
+*.db
+
+# Ignore compiled files
+__pycache__/
+*.py[cod]
+
+# Ignore CSV files if they're not needed in version control
+*.csv
+
+# Ignore environment-specific files
+.env
+*.env
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore backup or temporary files
+*.bak
+*.tmp
+~$*
