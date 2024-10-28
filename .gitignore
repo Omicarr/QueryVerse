@@ -11,6 +11,8 @@ share/
 __pycache__/
 *.py[cod]
 .pytest_cache/
+etc/jupyter/
+
 
 # Ignore CSV files if they're not needed in version control
 *.csv
